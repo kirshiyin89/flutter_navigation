@@ -28,7 +28,7 @@ Widget createDrawer(BuildContext context) {
               leading: Icon(Icons.pie_chart),
               title: Text('Reports'),
               onTap: () {
-                Navigator.pushReplacementNamed(context, routes.home);
+                Navigator.pushReplacementNamed(context, routes.reports);
               }),
           ListTile(
               leading: Icon(Icons.category),

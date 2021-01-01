@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       routes: {
         routes.transaction: (context) => TransactionView(),
         routes.categories: (context) => CategoriesView(),
-        routes.home: (context) => ReportsView(),
+        routes.reports: (context) => ReportsView(),
       },
     );
   }
