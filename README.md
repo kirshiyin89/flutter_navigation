@@ -1,4 +1,4 @@
-# How to implement navigation between manu items in Flutter with Navigation drawer
+# How to implement navigation between menu items in Flutter with Navigation drawer
 
 This project is a demo for my technical article on medium.com: 
 
